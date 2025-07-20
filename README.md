@@ -48,7 +48,7 @@ api_key="<YOUR_API_KEY>"  # Replace with your real API key
 ## 🏁 How to Run
 
 ```bash
-python app.py
+speech_analyzer.py
 ```
 
 By default, the app will be hosted locally at:
